@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>영양소 추천 설문</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 0; background:#fafafa; }
+    .wrap { max-width: 760px; margin: 0 auto; padding: 20px; }
+    .card { background:#fff; border:1px solid #e6e6e6; border-radius:12px; padding:16px; margin-bottom:12px; }
+    h1 { font-size: 20px; margin: 0 0 12px; }
+    .q { font-weight: 700; margin-bottom: 10px; }
+    .opts label { display:block; padding:10px 12px; border:1px solid #ddd; border-radius:10px; margin:8px 0; cursor:pointer; }
+    .opts input { margin-right: 10px; }
+    .row { display:flex; gap:10px; flex-wrap:wrap; }
+    button { width:100%; padding:12px; border-radius:10px; border:0; background:#111; color:#fff; font-weight:700; cursor:pointer; }
+    button:disabled { background:#888; cursor:not-allowed; }
+    .muted { color:#666; font-size: 13px; line-height:1.5; }
+    .result h2 { margin:0 0 10px; font-size:18px; }
+    .pill { display:inline-block; padding:6px 10px; border-radius:999px; border:1px solid #ddd; margin:4px 6px 0 0; }
+    pre { white-space: pre-wrap; word-break: break-word; background:#f4f4f4; padding:10px; border-radius:10px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>🥗 영양소 추천 설문</h1>
+      <div class="muted">설문에 답하면 10개 영양소(비타민 D, 마그네슘, 오메가-3, 비타민 B12, 철분, 아연, 칼슘, 프로바이오틱스, 비타민 C, 밀크시슬) 중 TOP 3를 추천합니다.</div>
+    </div>
+
+    <div id="form"></div>
+
+    <div class="card">
+      <button id="submitBtn" disabled>결과 보기</button>
+      <div class="muted" style="margin-top:10px;">본 결과는 정보 제공 목적이며 의료 진단/치료가 아닙니다.</div>
+    </div>
+
+    <div class="card result" id="result" style="display:none;">
+      <h2>추천 결과</h2>
+      <div id="top3"></div>
+      <div class="muted" style="margin-top:10px;">모델 입력 문장</div>
+      <pre id="inputText"></pre>
+      <div class="muted" id="disclaimer" style="margin-top:10px;"></div>
+    </div>
+  </div>
+
+<script>
+  // ✅ 서버에서 표준 키: sleep_time으로 고정
+  const QUESTIONS = [
+    { key:"age", title:"Q1. 나이를 선택해주세요", options:["10대","20대","30대","40대","50대 이상"] },
+    { key:"gender", title:"Q2. 성별을 선택해주세요", options:["남성","여성","임신/수유 중","기타","응답 안 함"] },
+    { key:"sleep_time", title:"Q3. 하루 평균 수면 시간은?", options:["4시간 이하","5~6시간","6~7시간","7~8시간","충분함"] },
+    { key:"sleep_quality", title:"Q4. 수면의 질은 어떤가요?", options:["잠들기 어렵고 자주 깸","자주 설치는 편","자고 나도 피곤함","보통","매우 좋음"] },
+    { key:"fatigue", title:"Q5. 평소 피로감은 어떤가요?", options:["항상 피곤함","자주 피곤함","가끔 피곤함","거의 없음","전혀 없음"] },
+    { key:"diet", title:"Q6. 평소 식습관은?", options:["매우 불규칙","패스트푸드 위주","탄수화물 위주","비교적 균형적","아주 건강함"] },
+    { key:"stress", title:"Q7. 스트레스 수준은?", options:["매우 높음","높음","보통","낮음","거의 없음"] },
+    { key:"digestion", title:"Q8. 소화 상태는 어떤가요?", options:["변비 잦음","설사 잦음","더부룩함","가끔 불편","문제 없음"] },
+    { key:"alcohol", title:"Q9. 음주 빈도는?", options:["거의 매일","주 3~4회","주 1~2회","거의 안 함","전혀 안 함"] },
+    { key:"sunlight", title:"Q10. 야외 활동 / 햇빛 노출은?", options:["거의 없음","매우 적음","보통","많은 편","매우 많음"] },
+  ];
+
+  const state = {}; // {key: 1..5}
+  const formDiv = document.getElementById("form");
+  const submitBtn = document.getElementById("submitBtn");
+
+  function render() {
+    formDiv.innerHTML = "";
+    QUESTIONS.forEach((q) => {
+      const card = document.createElement("div");
+      card.className = "card";
+
+      const title = document.createElement("div");
+      title.className = "q";
+      title.textContent = q.title;
+      card.appendChild(title);
+
+      const opts = document.createElement("div");
+      opts.className = "opts";
+
+      q.options.forEach((opt, idx) => {
+        const label = document.createElement("label");
+        const input = document.createElement("input");
+        input.type = "radio";
+        input.name = q.key;
+        input.value = String(idx + 1);
+        input.checked = state[q.key] === (idx + 1);
+        input.addEventListener("change", () => {
+          state[q.key] = idx + 1;
+          submitBtn.disabled = !isComplete();
+        });
+        label.appendChild(input);
+        label.appendChild(document.createTextNode(`${idx + 1}. ${opt}`));
+        opts.appendChild(label);
+      });
+
+      card.appendChild(opts);
+      formDiv.appendChild(card);
+    });
+  }
+
+  function isComplete() {
+    return QUESTIONS.every(q => typeof state[q.key] === "number");
+  }
+
+  submitBtn.addEventListener("click", async () => {
+    if (!isComplete()) return;
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = "추론 중...";
+
+    try {
+      const resp = await fetch("/predict", {
+        method: "POST",
+        headers: {"Content-Type":"application/json"},
+        body: JSON.stringify(state),
+      });
+
+      if (!resp.ok) {
+        const t = await resp.text();
+        throw new Error(`API error: ${resp.status}\n${t}`);
+      }
+
+      const data = await resp.json();
+
+      document.getElementById("result").style.display = "block";
+      document.getElementById("inputText").textContent = data.input_text || "";
+      document.getElementById("disclaimer").textContent = data.disclaimer || "";
+
+      const top3Div = document.getElementById("top3");
+      top3Div.innerHTML = "";
+      (data.top3 || []).forEach((r, i) => {
+        const pill = document.createElement("div");
+        pill.className = "pill";
+        pill.textContent = `${i+1}위: ${r.label} (신뢰도 ${Number(r.confidence).toFixed(2)})`;
+        top3Div.appendChild(pill);
+      });
+
+      // 스크롤 이동(모바일 UX)
+      document.getElementById("result").scrollIntoView({behavior:"smooth"});
+    } catch (e) {
+      alert(e.message);
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = "결과 보기";
+    }
+  });
+
+  render();
+</script>
+</body>
+</html>
