@@ -1,0 +1,480 @@
+{"id": "train_000001", "text": "전반적으로 면역력이 떨어진 것 같아요 그런 편이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000002", "text": "최근에 피로가 쉽게 회복되지 않아요 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000003", "text": "요즘 하루 대부분을 실내에서 보내요 그런 편이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000004", "text": "건조함을 자주 느껴요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000005", "text": "간이 피곤한 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000006", "text": "변비가 잦은 편이에요", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000007", "text": "요즘 요즘 이유 없이 많이 피곤해요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000008", "text": "숨이 차는 느낌이 들 때가 있어요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000009", "text": "전반적으로 술을 자주 마시는 편이에요 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000010", "text": "입 안에 염증이 자주 생겨요 그런 편이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000011", "text": "요즘 얼굴색이 창백하다는 말을 들어요 같아요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000012", "text": "요즘 기름진 생선 섭취가 거의 없어요 같아요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000013", "text": "기름진 음식을 자주 먹어요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000014", "text": "요즘 피로가 쉽게 쌓이는 편이에요 같아요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000015", "text": "수면 시간이 5시간 이하인 날이 많아요 그런 편이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000016", "text": "체력이 많이 떨어진 느낌이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000017", "text": "전반적으로 설사를 자주 하는 편이에요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000018", "text": "최근에 장 트러블이 자주 생겨요", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000019", "text": "전반적으로 자주 근육이 뭉쳐요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000020", "text": "요즘 잠들기까지 시간이 오래 걸려요 느낌이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000021", "text": "감기에 자주 걸려요 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000022", "text": "기억력이 떨어진 것 같아요", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000023", "text": "아침부터 피로감이 심해요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000024", "text": "최근에 피부 트러블이 자주 생겨요", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000025", "text": "전반적으로 잠이 얕아서 작은 소리에도 깨요 느낌이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000026", "text": "밖에 나가는 시간이 하루 30분도 안 돼요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000027", "text": "집중력이 잘 안 되는 느낌이에요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000028", "text": "전반적으로 햇빛을 거의 보지 않고 생활하고 있어요", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000029", "text": "전반적으로 신경이 예민해진 느낌이에요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000030", "text": "요즘 숨이 차는 느낌이 들 때가 있어요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000031", "text": "자주 근육이 뭉쳐요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000032", "text": "전반적으로 야외 활동이 거의 없는 편이에요", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000033", "text": "잠들기까지 시간이 오래 걸려요 느낌이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000034", "text": "요즘 잠들기까지 시간이 오래 걸려요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000035", "text": "면역력이 약해진 느낌이에요 느낌이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000036", "text": "최근에 회식이나 음주가 잦아요 같아요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000037", "text": "머리가 자주 멍해지는 느낌이 있어요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000038", "text": "요즘 활력이 부족해요 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000039", "text": "최근에 신경이 예민해진 느낌이에요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000040", "text": "햇빛을 거의 보지 않고 생활하고 있어요", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000041", "text": "요즘 집중력이 잘 안 되는 느낌이에요 그런 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000042", "text": "눈이 쉽게 건조해지는 편이에요 같아요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000043", "text": "요즘 회식이나 음주가 잦아요 그런 편이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000044", "text": "최근에 해독이 필요하다고 느껴요 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000045", "text": "전반적으로 체력이 많이 떨어진 느낌이에요 느낌이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000046", "text": "전반적으로 기운이 없고 무기력해요 느낌이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000047", "text": "전반적으로 피로가 쉽게 쌓이는 편이에요", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000048", "text": "최근에 피로가 쉽게 회복되지 않아요", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000049", "text": "최근에 면역력이 떨어진 것 같아요 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000050", "text": "최근에 입맛이 예전보다 떨어졌어요 같아요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000051", "text": "자주 근육이 뭉쳐요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000052", "text": "최근에 근육 경련을 자주 느껴요", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000053", "text": "활력이 부족해요 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000054", "text": "입 안에 염증이 자주 생겨요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000055", "text": "최근에 밤에 자주 깨는 편이에요 느낌이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000056", "text": "요즘 이유 없이 많이 피곤해요 느낌이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000057", "text": "하루 대부분을 실내에서 보내요", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000058", "text": "요즘 이유 없이 멍해질 때가 있어요 같아요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000059", "text": "요즘 항상 피곤한 느낌이에요 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000060", "text": "최근에 뼈 건강이 걱정돼요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000061", "text": "장 건강이 걱정돼요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000062", "text": "전반적으로 최근 수면 패턴이 많이 불규칙해요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000063", "text": "전반적으로 장 건강이 걱정돼요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000064", "text": "뼈가 약해진 느낌이에요 그런 편이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000065", "text": "자외선을 거의 쬐지 않고 지내요 그런 편이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000066", "text": "조금만 움직여도 쉽게 지쳐요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000067", "text": "간이 피곤한 느낌이에요", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000068", "text": "요즘 수면 시간이 5시간 이하인 날이 많아요 느낌이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000069", "text": "햇빛을 거의 보지 않고 생활하고 있어요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000070", "text": "전반적으로 피로가 쉽게 회복되지 않아요 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000071", "text": "전반적으로 조금만 움직여도 쉽게 지쳐요 같아요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000072", "text": "간 건강이 걱정돼요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000073", "text": "관절이 자주 뻣뻣하게 느껴져요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000074", "text": "전반적으로 설사를 자주 하는 편이에요", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000075", "text": "요즘 자주 근육이 뭉쳐요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000076", "text": "전반적으로 입맛이 예전보다 떨어졌어요 느낌이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000077", "text": "전반적으로 스트레스로 잠을 잘 못 자요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000078", "text": "요즘 얼굴색이 창백하다는 말을 들어요 같아요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000079", "text": "최근 햇볕을 쬐는 시간이 많이 부족해요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000080", "text": "활력이 예전보다 부족해요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000081", "text": "전반적으로 잠이 얕아서 작은 소리에도 깨요 같아요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000082", "text": "전반적으로 체력이 많이 떨어진 느낌이에요", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000083", "text": "요즘 뼈가 약해진 느낌이에요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000084", "text": "요즘 잠이 얕아서 작은 소리에도 깨요 같아요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000085", "text": "눈이 쉽게 건조해지는 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000086", "text": "감기에 자주 걸려요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000087", "text": "피부가 칙칙해진 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000088", "text": "생선을 자주 먹지 않는 식습관이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000089", "text": "최근에 밖에 나가는 시간이 하루 30분도 안 돼요 그런 편이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000090", "text": "전반적으로 숨이 차는 느낌이 들 때가 있어요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000091", "text": "요즘 손발이 자주 저릿저릿해요 같아요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000092", "text": "최근에 피부 상태가 안 좋아졌어요", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000093", "text": "전반적으로 소화가 잘 안 되는 느낌이에요 같아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000094", "text": "최근에 아침에 일어나기 힘들어요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000095", "text": "숨이 차는 느낌이 들 때가 있어요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000096", "text": "집중력이 예전보다 떨어진 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000097", "text": "최근에 소화가 잘 안 되는 느낌이에요 같아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000098", "text": "야외 활동이 거의 없는 편이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000099", "text": "전반적으로 간 건강이 걱정돼요 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000100", "text": "혈액순환이 잘 안 되는 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000101", "text": "전반적으로 아침부터 피로감이 심해요 같아요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000102", "text": "기름진 생선 섭취가 거의 없어요 그런 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000103", "text": "생선을 자주 먹지 않는 식습관이에요 그런 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000104", "text": "얼굴색이 창백하다는 말을 들어요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000105", "text": "요즘 이유 없이 멍해질 때가 있어요", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000106", "text": "운동 후 근육통이 심해요 그런 편이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000107", "text": "최근에 피부 상태가 안 좋아졌어요 그런 편이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000108", "text": "요즘 자고 일어나도 피곤함이 남아 있어요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000109", "text": "전반적으로 무기력함을 자주 느껴요 그런 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000110", "text": "전반적으로 감염에 취약한 느낌이에요 같아요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000111", "text": "전반적으로 피부가 칙칙해진 느낌이에요 그런 편이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000112", "text": "최근에 간 건강이 걱정돼요", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000113", "text": "눈이 쉽게 건조해지는 편이에요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000114", "text": "최근에 피부 상태가 안 좋아졌어요 느낌이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000115", "text": "하루 대부분을 실내에서 보내요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000116", "text": "기운이 없고 무기력해요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000117", "text": "전반적으로 음주 후 피로가 오래 가요 그런 편이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000118", "text": "최근 햇볕을 쬐는 시간이 많이 부족해요", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000119", "text": "전반적으로 아침부터 피로감이 심해요", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000120", "text": "잠이 얕아서 작은 소리에도 깨요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000121", "text": "전반적으로 다리에 쥐가 자주 나는 편이에요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000122", "text": "장 건강이 걱정돼요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000123", "text": "전반적으로 피로가 쉽게 쌓이는 편이에요 그런 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000124", "text": "요즘 기름진 생선 섭취가 거의 없어요 같아요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000125", "text": "배에 가스가 많이 차요 그런 편이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000126", "text": "전반적으로 항상 피곤한 느낌이에요 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000127", "text": "전반적으로 신경이 예민해진 느낌이에요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000128", "text": "면역력이 떨어진 것 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000129", "text": "관절 통증이 있어요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000130", "text": "요즘 스트레스로 잠을 잘 못 자요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000131", "text": "전반적으로 근육 경련을 자주 느껴요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000132", "text": "자고 일어나도 피곤함이 남아 있어요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000133", "text": "혈액순환이 잘 안 되는 느낌이에요 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000134", "text": "머리카락이 많이 빠지는 편이에요 같아요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000135", "text": "신경이 예민해진 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000136", "text": "감염에 취약한 느낌이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000137", "text": "요즘 변비가 잦은 편이에요", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000138", "text": "햇빛을 쬐는 날이 거의 없어요 같아요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000139", "text": "전반적으로 식사 후 속이 불편해요", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000140", "text": "요즘 다리에 쥐가 자주 나는 편이에요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000141", "text": "최근에 뼈나 관절이 자주 뻐근해요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000142", "text": "잠을 자도 개운하지 않아요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000143", "text": "최근에 아침에 일어나기 힘들어요 같아요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000144", "text": "잠이 얕아서 작은 소리에도 깨요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000145", "text": "전반적으로 하루 대부분을 실내에서 보내요 느낌이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000146", "text": "요즘 손톱이 잘 부러져요 그런 편이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000147", "text": "최근 몇 주간 햇볕을 거의 못 봤어요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000148", "text": "피부 상태가 안 좋아졌어요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000149", "text": "운동 후 근육통이 심해요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000150", "text": "전반적으로 머리카락이 많이 빠지는 편이에요", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000151", "text": "요즘 손발이 자주 저릿저릿해요", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000152", "text": "요즘 감기에 자주 걸려요 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000153", "text": "피부가 칙칙해진 느낌이에요 그런 편이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000154", "text": "전반적으로 회복이 느린 느낌이에요 그런 편이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000155", "text": "최근에 피부가 쉽게 건조해져요 그런 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000156", "text": "관절이 자주 뻣뻣하게 느껴져요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000157", "text": "전반적으로 기운이 쉽게 빠지는 편이에요 그런 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000158", "text": "운동 후 근육통이 심해요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000159", "text": "최근에 회식이나 음주가 잦아요 그런 편이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000160", "text": "요즘 기운이 없고 무기력해요 느낌이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000161", "text": "요즘 유제품 섭취가 적은 편이에요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000162", "text": "배변이 규칙적이지 않아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000163", "text": "햇빛을 쬐는 날이 거의 없어요 그런 편이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000164", "text": "피부가 칙칙해진 느낌이에요 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000165", "text": "요즘 입 안에 염증이 자주 생겨요 그런 편이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000166", "text": "최근에 상처 회복이 느려요 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000167", "text": "면역력이 약해진 느낌이에요 그런 편이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000168", "text": "전반적으로 빈혈 증상이 걱정돼요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000169", "text": "집중력이 잘 안 되는 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000170", "text": "최근에 면역력이 떨어진 것 같아요 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000171", "text": "햇빛을 거의 보지 않고 생활하고 있어요", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000172", "text": "최근에 피부가 칙칙해진 느낌이에요 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000173", "text": "전반적으로 감염에 취약한 느낌이에요 그런 편이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000174", "text": "술을 마신 다음날 컨디션이 안 좋아요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000175", "text": "근육 경련을 자주 느껴요 그런 편이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000176", "text": "최근에 기억력이 떨어진 것 같아요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000177", "text": "최근에 다리에 쥐가 자주 나는 편이에요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000178", "text": "전반적으로 기운이 없고 무기력해요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000179", "text": "피부가 쉽게 건조해져요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000180", "text": "빈혈 증상이 걱정돼요 같아요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000181", "text": "전반적으로 건조함을 자주 느껴요 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000182", "text": "전반적으로 낮 시간에도 실내에 있는 경우가 많아요 느낌이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000183", "text": "요즘 활력이 부족해요", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000184", "text": "혈액순환이 잘 안 되는 느낌이에요 그런 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000185", "text": "전반적으로 어지러운 느낌이 자주 들어요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000186", "text": "관절이 자주 뻣뻣하게 느껴져요 그런 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000187", "text": "최근에 이유 없이 멍해질 때가 있어요 같아요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000188", "text": "요즘 아침부터 피로감이 심해요", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000189", "text": "기운이 쉽게 빠지는 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000190", "text": "전반적으로 머리가 자주 멍해지는 느낌이 있어요 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000191", "text": "요즘 낮 시간에도 실내에 있는 경우가 많아요 느낌이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000192", "text": "전반적으로 수면의 질이 좋지 않다고 느껴요 그런 편이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000193", "text": "아침에 일어나기 힘들어요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000194", "text": "빈혈 증상이 걱정돼요", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000195", "text": "술을 자주 마시는 편이에요", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000196", "text": "뼈가 약해진 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000197", "text": "전반적으로 피부 상태가 안 좋아졌어요 그런 편이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000198", "text": "최근에 뼈가 약해진 느낌이에요", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000199", "text": "요즘 건조함을 자주 느껴요 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000200", "text": "최근에 집중력이 예전보다 떨어진 느낌이에요 같아요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000201", "text": "최근에 야외 활동이 거의 없는 편이에요 느낌이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000202", "text": "최근에 기름진 음식을 자주 먹어요 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000203", "text": "요즘 조금만 움직여도 쉽게 지쳐요 같아요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000204", "text": "요즘 어지러운 느낌이 자주 들어요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000205", "text": "요즘 간 건강이 걱정돼요 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000206", "text": "전반적으로 면역력이 약해진 느낌이에요 느낌이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000207", "text": "최근에 잠을 자도 개운하지 않아요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000208", "text": "최근에 아침부터 피로감이 심해요 같아요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000209", "text": "최근에 수면의 질이 좋지 않다고 느껴요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000210", "text": "상처 회복이 느려요", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000211", "text": "최근에 술을 자주 마시는 편이에요 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000212", "text": "자외선을 거의 쬐지 않고 지내요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000213", "text": "요즘 잠을 깊게 못 자는 느낌이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000214", "text": "술을 마신 다음날 컨디션이 안 좋아요 같아요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000215", "text": "전반적으로 요즘 잠을 깊게 못 자는 느낌이에요 그런 편이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000216", "text": "최근에 간이 피곤한 느낌이에요 같아요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000217", "text": "항상 피곤한 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000218", "text": "상처가 잘 아물지 않아요", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000219", "text": "스트레스를 많이 받아요 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000220", "text": "머리가 자주 멍해지는 느낌이 있어요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000221", "text": "전반적으로 배에 가스가 많이 차요 같아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000222", "text": "최근에 감기에 자주 걸리는 편이에요 느낌이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000223", "text": "피로가 쉽게 쌓이는 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000224", "text": "뼈나 관절이 자주 뻐근해요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000225", "text": "전반적으로 빈혈 증상이 걱정돼요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000226", "text": "요즘 장 트러블이 자주 생겨요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000227", "text": "자고 일어나도 피곤함이 남아 있어요 그런 편이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000228", "text": "해독이 필요하다고 느껴요 같아요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000229", "text": "요즘 뼈 건강이 걱정돼요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000230", "text": "평소 염증성 통증이 있는 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000231", "text": "야식을 자주 먹는 편이에요", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000232", "text": "전반적으로 기름진 음식을 자주 먹어요", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000233", "text": "스트레스를 많이 받아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000234", "text": "전반적으로 기름진 음식을 자주 먹어요 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000235", "text": "과일 섭취가 적은 편이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000236", "text": "잠을 자도 개운하지 않아요 느낌이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000237", "text": "관절 통증이 있어요 그런 편이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000238", "text": "음주 후 피로가 오래 가요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000239", "text": "손발이 차가운 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000240", "text": "전반적으로 항상 피곤한 느낌이에요 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000241", "text": "어지러운 느낌이 자주 들어요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000242", "text": "손발이 자주 저릿저릿해요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000243", "text": "최근에 면역력이 약해진 느낌이에요", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000244", "text": "손톱이 잘 부러져요 그런 편이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000245", "text": "최근에 피로가 쉽게 회복되지 않아요 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000246", "text": "전반적으로 피부 트러블이 자주 생겨요 같아요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000247", "text": "자주 근육이 뭉쳐요 그런 편이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000248", "text": "최근에 복부 팽만감을 느껴요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000249", "text": "최근에 관절 통증이 있어요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000250", "text": "요즘 요즘 이유 없이 많이 피곤해요", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000251", "text": "최근에 장 트러블이 자주 생겨요 같아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000252", "text": "전반적으로 몸이 쉽게 붓는 느낌이에요 그런 편이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000253", "text": "기름진 생선 섭취가 거의 없어요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000254", "text": "뼈나 관절이 자주 뻐근해요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000255", "text": "요즘 항상 피곤한 느낌이에요 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000256", "text": "수면의 질이 좋지 않다고 느껴요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000257", "text": "요즘 활력이 예전보다 부족해요 같아요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000258", "text": "최근에 회복이 느린 느낌이에요 같아요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000259", "text": "전반적으로 설사를 자주 하는 편이에요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000260", "text": "요즘 이유 없이 멍해질 때가 있어요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000261", "text": "과일 섭취가 적은 편이에요 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000262", "text": "전반적으로 감기에 자주 걸려요", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000263", "text": "근육 경련을 자주 느껴요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000264", "text": "전반적으로 집중력이 예전보다 떨어진 느낌이에요 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000265", "text": "요즘 소화가 잘 안 되는 느낌이에요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000266", "text": "요즘 자외선을 거의 쬐지 않고 지내요", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000267", "text": "전반적으로 야외 활동이 거의 없는 편이에요", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000268", "text": "전반적으로 활력이 예전보다 부족해요 그런 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000269", "text": "전반적으로 기운이 쉽게 빠지는 편이에요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000270", "text": "회식이나 음주가 잦아요", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000271", "text": "요즘 햇빛 노출이 매우 적은 생활 패턴이에요 그런 편이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000272", "text": "요즘 장 건강이 걱정돼요 그런 편이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000273", "text": "전반적으로 배에 가스가 많이 차요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000274", "text": "요즘 뼈나 관절이 자주 뻐근해요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000275", "text": "관절이 자주 뻣뻣하게 느껴져요 그런 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000276", "text": "머리가 자주 멍해지는 느낌이 있어요 그런 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000277", "text": "피로가 쉽게 회복되지 않아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000278", "text": "요즘 이유 없이 많이 피곤해요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000279", "text": "전반적으로 상처 회복이 느려요", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000280", "text": "아침에 일어나기 힘들어요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000281", "text": "요즘 밤에 자주 깨는 편이에요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000282", "text": "전반적으로 평소 염증성 통증이 있는 편이에요 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000283", "text": "최근에 혈액순환이 잘 안 되는 느낌이에요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000284", "text": "최근에 활력이 예전보다 부족해요 그런 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000285", "text": "전반적으로 기운이 쉽게 빠지는 편이에요 같아요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000286", "text": "어지러운 느낌이 자주 들어요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000287", "text": "자고 일어나도 피곤함이 남아 있어요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000288", "text": "요즘 햇빛 노출이 매우 적은 생활 패턴이에요 같아요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000289", "text": "요즘 상처 회복이 느려요 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000290", "text": "전반적으로 요즘 잠을 깊게 못 자는 느낌이에요 같아요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000291", "text": "전반적으로 스트레스를 많이 받아요 느낌이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000292", "text": "전반적으로 생선을 자주 먹지 않는 식습관이에요 같아요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000293", "text": "최근에 밤에 자주 깨는 편이에요 같아요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000294", "text": "전반적으로 밖에 나가는 시간이 하루 30분도 안 돼요 같아요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000295", "text": "기름진 생선 섭취가 거의 없어요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000296", "text": "술을 자주 마시는 편이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000297", "text": "속이 더부룩한 느낌이 자주 있어요 같아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000298", "text": "술을 마신 다음날 컨디션이 안 좋아요 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000299", "text": "요즘 수면의 질이 좋지 않다고 느껴요 느낌이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000300", "text": "전반적으로 감기에 자주 걸리는 편이에요 느낌이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000301", "text": "복부 팽만감을 느껴요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000302", "text": "요즘 피부 트러블이 자주 생겨요", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000303", "text": "전반적으로 활력이 부족해요", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000304", "text": "전반적으로 머리카락이 많이 빠지는 편이에요 느낌이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000305", "text": "요즘 요즘 잠을 깊게 못 자는 느낌이에요 느낌이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000306", "text": "요즘 건조함을 자주 느껴요 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000307", "text": "요즘 최근 수면 패턴이 많이 불규칙해요 그런 편이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000308", "text": "최근에 속이 더부룩한 느낌이 자주 있어요 같아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000309", "text": "최근에 속이 더부룩한 느낌이 자주 있어요 같아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000310", "text": "최근에 뼈나 관절이 자주 뻐근해요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000311", "text": "요즘 햇빛 노출이 매우 적은 생활 패턴이에요 느낌이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000312", "text": "최근에 기운이 없고 무기력해요 같아요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000313", "text": "요즘 배변이 규칙적이지 않아요 그런 편이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000314", "text": "최근에 컨디션 회복이 느려요 그런 편이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000315", "text": "입 안에 염증이 자주 생겨요 그런 편이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000316", "text": "전반적으로 기름진 생선 섭취가 거의 없어요 같아요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000317", "text": "햇빛을 쬐는 날이 거의 없어요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000318", "text": "전반적으로 뼈 건강이 걱정돼요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000319", "text": "최근 몇 주간 햇볕을 거의 못 봤어요 그런 편이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000320", "text": "최근에 손발이 자주 저릿저릿해요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000321", "text": "최근에 배변이 규칙적이지 않아요 그런 편이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000322", "text": "전반적으로 운동 후 근육통이 심해요", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000323", "text": "전반적으로 요즘 잠을 깊게 못 자는 느낌이에요 느낌이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000324", "text": "최근에 뼈가 약해진 느낌이에요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000325", "text": "전반적으로 하루 대부분을 실내에서 보내요 그런 편이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000326", "text": "머리카락이 많이 빠지는 편이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000327", "text": "최근에 관절 통증이 있어요 그런 편이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000328", "text": "요즘 감염에 취약한 느낌이에요 같아요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000329", "text": "최근에 기억력이 떨어진 것 같아요", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000330", "text": "요즘 피부 트러블이 자주 생겨요", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000331", "text": "최근에 신경이 예민해진 느낌이에요", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000332", "text": "복부 팽만감을 느껴요 같아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000333", "text": "복부 팽만감을 느껴요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000334", "text": "빈혈 증상이 걱정돼요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000335", "text": "최근에 평소 염증성 통증이 있는 편이에요 그런 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000336", "text": "전반적으로 햇빛 노출이 매우 적은 생활 패턴이에요 느낌이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000337", "text": "최근에 기운이 쉽게 빠지는 편이에요 그런 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000338", "text": "하루 대부분을 실내에서 보내요 그런 편이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000339", "text": "전반적으로 아침에 일어나기 힘들어요", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000340", "text": "해독이 필요하다고 느껴요 같아요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000341", "text": "요즘 피로가 쉽게 쌓이는 편이에요 그런 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000342", "text": "햇빛 노출이 매우 적은 생활 패턴이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000343", "text": "전반적으로 피로가 쉽게 회복되지 않아요 그런 편이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000344", "text": "입맛이 예전보다 떨어졌어요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000345", "text": "최근에 손발이 차가운 편이에요 같아요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000346", "text": "요즘 몸이 쉽게 붓는 느낌이에요 같아요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000347", "text": "요즘 스트레스를 많이 받아요 그런 편이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000348", "text": "최근에 숨이 차는 느낌이 들 때가 있어요 느낌이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000349", "text": "이유 없이 멍해질 때가 있어요 그런 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000350", "text": "전반적으로 감기에 자주 걸려요 그런 편이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000351", "text": "요즘 잠을 깊게 못 자는 느낌이에요 그런 편이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000352", "text": "요즘 근육 경련을 자주 느껴요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000353", "text": "어지러운 느낌이 자주 들어요", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000354", "text": "요즘 뼈나 관절이 자주 뻐근해요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000355", "text": "전반적으로 잠을 자도 개운하지 않아요 같아요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000356", "text": "최근에 혈액순환이 잘 안 되는 느낌이에요 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000357", "text": "최근에 야식을 자주 먹는 편이에요 같아요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000358", "text": "전반적으로 생선을 자주 먹지 않는 식습관이에요 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000359", "text": "전반적으로 몸이 쉽게 붓는 느낌이에요 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000360", "text": "식사 후 속이 불편해요 그런 편이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000361", "text": "전반적으로 머리가 자주 멍해지는 느낌이 있어요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000362", "text": "전반적으로 잠이 얕아서 작은 소리에도 깨요 그런 편이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000363", "text": "속이 더부룩한 느낌이 자주 있어요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000364", "text": "최근에 자외선을 거의 쬐지 않고 지내요", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000365", "text": "상처가 잘 아물지 않아요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000366", "text": "최근에 피로가 쉽게 쌓이는 편이에요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000367", "text": "야식을 자주 먹는 편이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000368", "text": "전반적으로 야외 활동이 거의 없는 편이에요", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000369", "text": "최근에 평소 염증성 통증이 있는 편이에요 그런 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000370", "text": "최근에 해독이 필요하다고 느껴요", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000371", "text": "기운이 없고 무기력해요 느낌이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000372", "text": "해독이 필요하다고 느껴요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000373", "text": "요즘 감기에 자주 걸리는 편이에요 같아요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000374", "text": "요즘 근육 경련을 자주 느껴요 그런 편이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000375", "text": "요즘 면역력이 떨어진 것 같아요 그런 편이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000376", "text": "집중력이 예전보다 떨어진 느낌이에요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000377", "text": "햇빛을 쬐는 날이 거의 없어요", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000378", "text": "요즘 음주 후 피로가 오래 가요 그런 편이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000379", "text": "최근에 피부가 쉽게 건조해져요 그런 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000380", "text": "소화가 잘 안 되는 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000381", "text": "전반적으로 얼굴색이 창백하다는 말을 들어요 같아요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000382", "text": "전반적으로 손톱이 잘 부러져요 같아요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000383", "text": "전반적으로 속이 더부룩한 느낌이 자주 있어요", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000384", "text": "몸이 쉽게 붓는 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000385", "text": "최근에 뼈 건강이 걱정돼요 그런 편이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000386", "text": "최근에 상처가 잘 아물지 않아요 그런 편이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000387", "text": "전반적으로 조금만 움직여도 쉽게 지쳐요", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000388", "text": "최근에 해독이 필요하다고 느껴요 그런 편이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000389", "text": "전반적으로 회복이 느린 느낌이에요 그런 편이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000390", "text": "야식을 자주 먹는 편이에요 그런 편이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000391", "text": "장 트러블이 자주 생겨요 같아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000392", "text": "햇빛 노출이 매우 적은 생활 패턴이에요 그런 편이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000393", "text": "전반적으로 설사를 자주 하는 편이에요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000394", "text": "최근에 자외선을 거의 쬐지 않고 지내요 느낌이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000395", "text": "요즘 입 안에 염증이 자주 생겨요 같아요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000396", "text": "뼈 건강이 걱정돼요", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000397", "text": "뼈가 약해진 느낌이에요 그런 편이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000398", "text": "식사 후 속이 불편해요 같아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000399", "text": "요즘 장 건강이 걱정돼요 같아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000400", "text": "최근에 술을 자주 마시는 편이에요", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000401", "text": "전반적으로 감기에 자주 걸리는 편이에요 느낌이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000402", "text": "최근에 체력이 많이 떨어진 느낌이에요 같아요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000403", "text": "요즘 자주 근육이 뭉쳐요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000404", "text": "혈액순환이 잘 안 되는 느낌이에요 그런 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000405", "text": "요즘 장 건강이 걱정돼요 같아요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000406", "text": "최근에 상처 회복이 느려요 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000407", "text": "집중력이 잘 안 되는 느낌이에요 느낌이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000408", "text": "수면 시간이 5시간 이하인 날이 많아요 같아요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000409", "text": "피부가 쉽게 건조해져요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000410", "text": "최근에 활력이 예전보다 부족해요 같아요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000411", "text": "기억력이 떨어진 것 같아요 같아요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000412", "text": "이유 없이 멍해질 때가 있어요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000413", "text": "전반적으로 술을 자주 마시는 편이에요 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000414", "text": "몸이 쉽게 붓는 느낌이에요 같아요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000415", "text": "최근에 유제품 섭취가 적은 편이에요", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000416", "text": "상처 회복이 느려요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000417", "text": "기름진 음식을 자주 먹어요 그런 편이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000418", "text": "피부 트러블이 자주 생겨요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000419", "text": "요즘 유제품 섭취가 적은 편이에요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000420", "text": "밤에 자주 깨는 편이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000421", "text": "최근에 낮 시간에도 실내에 있는 경우가 많아요", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000422", "text": "신경이 예민해진 느낌이에요 그런 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000423", "text": "설사를 자주 하는 편이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000424", "text": "전반적으로 체력이 많이 떨어진 느낌이에요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000425", "text": "요즘 밤에 자주 깨는 편이에요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000426", "text": "요즘 스트레스를 많이 받아요 그런 편이에요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000427", "text": "요즘 햇빛을 거의 보지 않고 생활하고 있어요 그런 편이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000428", "text": "최근에 소화가 잘 안 되는 느낌이에요 그런 편이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000429", "text": "전반적으로 건조함을 자주 느껴요 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000430", "text": "최근에 평소 염증성 통증이 있는 편이에요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000431", "text": "전반적으로 복부 팽만감을 느껴요", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000432", "text": "전반적으로 감염에 취약한 느낌이에요", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000433", "text": "요즘 관절이 자주 뻣뻣하게 느껴져요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000434", "text": "최근에 자고 일어나도 피곤함이 남아 있어요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000435", "text": "전반적으로 최근 햇볕을 쬐는 시간이 많이 부족해요 느낌이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000436", "text": "최근에 눈이 쉽게 건조해지는 편이에요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000437", "text": "요즘 감염에 취약한 느낌이에요", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000438", "text": "요즘 배변이 규칙적이지 않아요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000439", "text": "요즘 식사 후 속이 불편해요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000440", "text": "상처가 잘 아물지 않아요", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000441", "text": "최근 햇볕을 쬐는 시간이 많이 부족해요 그런 편이에요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000442", "text": "손발이 차가운 편이에요 느낌이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000443", "text": "전반적으로 간 건강이 걱정돼요", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000444", "text": "요즘 입맛이 예전보다 떨어졌어요 같아요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000445", "text": "요즘 입 안에 염증이 자주 생겨요", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000446", "text": "면역력이 약해진 느낌이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000447", "text": "전반적으로 관절 통증이 있어요", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000448", "text": "전반적으로 운동 후 근육통이 심해요", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000449", "text": "활력이 부족해요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000450", "text": "최근에 간 건강이 걱정돼요 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000451", "text": "최근에 무기력함을 자주 느껴요", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000452", "text": "최근에 손톱이 잘 부러져요", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000453", "text": "전반적으로 스트레스로 잠을 잘 못 자요 그런 편이에요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000454", "text": "전반적으로 체력이 많이 떨어진 느낌이에요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000455", "text": "요즘 관절이 자주 뻣뻣하게 느껴져요 같아요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000456", "text": "컨디션 회복이 느려요 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000457", "text": "요즘 햇빛을 쬐는 날이 거의 없어요 같아요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000458", "text": "요즘 집중력이 잘 안 되는 느낌이에요 그런 편이에요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000459", "text": "전반적으로 감기에 자주 걸려요 같아요.", "label_id": 8, "label_ko": "비타민 C", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000460", "text": "변비가 잦은 편이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000461", "text": "피부가 쉽게 건조해져요", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000462", "text": "요즘 햇빛을 쬐는 날이 거의 없어요 같아요.", "label_id": 0, "label_ko": "비타민 D", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000463", "text": "최근에 변비가 잦은 편이에요 느낌이에요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000464", "text": "스트레스로 잠을 잘 못 자요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000465", "text": "조금만 움직여도 쉽게 지쳐요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000466", "text": "전반적으로 간이 피곤한 느낌이에요 같아요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000467", "text": "요즘 수면 시간이 5시간 이하인 날이 많아요", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000468", "text": "최근 수면 패턴이 많이 불규칙해요.", "label_id": 1, "label_ko": "마그네슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000469", "text": "얼굴색이 창백하다는 말을 들어요 같아요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000470", "text": "전반적으로 빈혈 증상이 걱정돼요 그런 편이에요.", "label_id": 4, "label_ko": "철분", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000471", "text": "전반적으로 술을 마신 다음날 컨디션이 안 좋아요 느낌이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000472", "text": "손발이 자주 저릿저릿해요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000473", "text": "요즘 평소 염증성 통증이 있는 편이에요 느낌이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000474", "text": "전반적으로 상처가 잘 아물지 않아요 느낌이에요.", "label_id": 5, "label_ko": "아연", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000475", "text": "최근에 집중력이 예전보다 떨어진 느낌이에요 그런 편이에요.", "label_id": 2, "label_ko": "오메가-3", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000476", "text": "최근에 기름진 음식을 자주 먹어요 그런 편이에요.", "label_id": 9, "label_ko": "밀크시슬", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000477", "text": "최근에 다리에 쥐가 자주 나는 편이에요 느낌이에요.", "label_id": 6, "label_ko": "칼슘", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000478", "text": "배에 가스가 많이 차요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000479", "text": "장 트러블이 자주 생겨요.", "label_id": 7, "label_ko": "프로바이오틱스", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}
+{"id": "train_000480", "text": "무기력함을 자주 느껴요.", "label_id": 3, "label_ko": "비타민 B12", "source": "free_text", "split": "train", "meta": {"lang": "ko", "note": ""}}

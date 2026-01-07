@@ -38,8 +38,8 @@
     <div class="card result" id="result" style="display:none;">
       <h2>추천 결과</h2>
       <div id="top3"></div>
-      <div class="muted" style="margin-top:10px;">모델 입력 문장</div>
-      <pre id="inputText"></pre>
+      <!-- <div class="muted" style="margin-top:10px;">모델 입력 문장</div> -->
+      <!-- <pre id="inputText" style="display:none;"></pre> -->
       <div class="muted" id="disclaimer" style="margin-top:10px;"></div>
     </div>
   </div>
@@ -58,6 +58,49 @@
     { key:"alcohol", title:"Q9. 음주 빈도는?", options:["거의 매일","주 3~4회","주 1~2회","거의 안 함","전혀 안 함"] },
     { key:"sunlight", title:"Q10. 야외 활동 / 햇빛 노출은?", options:["거의 없음","매우 적음","보통","많은 편","매우 많음"] },
   ];
+  const NUTRIENT_INFO = {
+  "마그네슘": {
+    dose: "하루 200~400mg, 저녁 식후 또는 취침 전 복용",
+    caution: "신장 질환이 있거나 설사를 자주 하는 경우 주의"
+  },
+  "밀크시슬": {
+    dose: "하루 130~300mg, 식후 복용 권장",
+    caution: "임신·수유 중이거나 호르몬 치료 중인 경우 주의"
+  },
+  "철분": {
+    dose: "하루 10~18mg, 공복 또는 비타민 C와 함께 복용",
+    caution: "위장 장애, 철분 과다 진단을 받은 경우 복용 금지"
+  },
+  "비타민 D": {
+    dose: "하루 800~2000 IU, 식사 중 지방과 함께 복용",
+    caution: "고칼슘혈증, 신장 질환이 있는 경우 주의"
+  },
+  "오메가-3": {
+    dose: "하루 1000mg 내외, 식후 복용",
+    caution: "혈액 응고 억제제 복용 중이면 주의"
+  },
+  "비타민 B12": {
+    dose: "하루 500~1000mcg, 아침 또는 점심 복용",
+    caution: "특별한 금기는 드물지만 고용량 장기 복용은 주의"
+  },
+  "아연": {
+    dose: "하루 8~11mg, 식후 복용",
+    caution: "구리 결핍이 있는 경우 장기 복용 주의"
+  },
+  "칼슘": {
+    dose: "하루 500~600mg, 마그네슘과 시간차 복용",
+    caution: "신장결석 병력이 있는 경우 주의"
+  },
+  "프로바이오틱스": {
+    dose: "공복 또는 취침 전 1일 1회",
+    caution: "면역 억제 치료 중인 경우 전문의 상담 필요"
+  },
+  "비타민 C": {
+    dose: "하루 500~1000mg, 식후 복용",
+    caution: "위장 장애가 있는 경우 고용량 주의"
+  }
+};
+
 
   const state = {}; // {key: 1..5}
   const formDiv = document.getElementById("form");
@@ -123,17 +166,34 @@
       const data = await resp.json();
 
       document.getElementById("result").style.display = "block";
-      document.getElementById("inputText").textContent = data.input_text || "";
+      //document.getElementById("inputText").textContent = data.input_text || "";
       document.getElementById("disclaimer").textContent = data.disclaimer || "";
 
       const top3Div = document.getElementById("top3");
       top3Div.innerHTML = "";
       (data.top3 || []).forEach((r, i) => {
-        const pill = document.createElement("div");
-        pill.className = "pill";
-        pill.textContent = `${i+1}위: ${r.label} (신뢰도 ${Number(r.confidence).toFixed(2)})`;
-        top3Div.appendChild(pill);
-      });
+      const info = NUTRIENT_INFO[r.label] || {};
+
+      const card = document.createElement("div");
+      card.className = "card";
+
+      card.innerHTML = `
+        <div style="font-weight:700; margin-bottom:6px;">
+          ${i + 1}위 추천: ${r.label}
+        </div>
+        <div class="muted">
+          <strong>복용 가이드</strong><br/>
+          ${info.dose || "일반적인 복용 가이드 없음"}
+        </div>
+        <div class="muted" style="margin-top:6px;">
+          <strong>복용 시 주의</strong><br/>
+          ${info.caution || "특이사항 없음"}
+        </div>
+      `;
+
+      top3Div.appendChild(card);
+    });
+
 
       // 스크롤 이동(모바일 UX)
       document.getElementById("result").scrollIntoView({behavior:"smooth"});
