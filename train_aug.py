@@ -1,3 +1,5 @@
+# train_baseline 학습 후 비교용 train aug
+
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
@@ -12,8 +14,8 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # train_ds = NutrientDataset("data_aug/train_aug.jsonl")
 # valid_ds = NutrientDataset("data_aug/valid_aug.jsonl")
 
-train_ds = NutrientDataset("data_aug/train_aug.jsonl")
-valid_ds = NutrientDataset("data_aug/valid_aug.jsonl")
+train_ds = NutrientDataset("data_aug/train_aug.jsonl", max_len=128)
+valid_ds = NutrientDataset("data_aug/valid_aug.jsonl", max_len=128)
 
 train_loader = DataLoader(train_ds, batch_size=16, shuffle=True)
 valid_loader = DataLoader(valid_ds, batch_size=16)
@@ -49,4 +51,4 @@ for epoch in range(EPOCHS):
     print(f"Valid Acc : {acc:.4f}")
     print(f"Valid F1  : {f1:.4f}")
 
-torch.save(model.state_dict(), "model.pt")
+torch.save(model.state_dict(), "model_aug.pt")
